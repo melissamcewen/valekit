@@ -1,0 +1,5 @@
+[^.]jsx
+Codepen
+VScode
+VSCode
+VsCode
